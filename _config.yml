@@ -18,8 +18,8 @@ logo: /img/logos/chuhuo.png
 # disqus_shortname: project-pages
 # g-analytics: UA-75881392-1
 altmetric: true
-# weixin_qrcode: /img/qrcode/weixin.jpg
-# zsxq_url: https://t.zsxq.com/7XBPj
+weixin_qrcode: /img/weixin.jpg
+zsxq_url: https://t.zsxq.com/7XBPj
 
 # Build settings
 gems: [jekyll-paginate]
