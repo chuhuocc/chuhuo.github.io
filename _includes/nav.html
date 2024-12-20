@@ -15,19 +15,29 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
+                <!-- 首页 -->
                 <li>
-                    <a href="{{ site.baseurl }}/">Home</a>
+                    <a href="{{ site.baseurl }}/">首页</a>
                 </li>
-				{% for page in site.pages %}{% if page.url contains "projects/" %}{% if page.title %}
+                
+                <!-- 固定顺序的导航项 -->
                 <li>
-                    <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                    <a href="{{ site.baseurl }}/creation-guide">创作指南</a>
                 </li>
-                {% endif %}{% endif %}{% endfor %}
-                {% for page in site.pages %}{% if page.url contains "projects/" %}{% else %}{% if page.title %}
                 <li>
-                    <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                    <a href="{{ site.baseurl }}/creation-stories">创作故事</a>
                 </li>
-                {% endif %}{% endif %}{% endfor %}
+                <li>
+                    <a href="{{ site.baseurl }}/creator-works">创作者作品</a>
+                </li>
+                <li>
+                    <a href="{{ site.baseurl }}/about-us">初火与我</a>
+                </li>
+                
+                <!-- 外部链接 -->
+                <li>
+                    <a href="https://chuhuo.cc" target="_blank">回到官网</a>
+                </li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
