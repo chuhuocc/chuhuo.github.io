@@ -13,11 +13,13 @@ headercolor: "#FFFFFF"
 logo: /img/logos/chuhuo.png
 
 # Tertiary Parameters
-github_username:  projectpages
-project_repository: project-pages
-disqus_shortname: project-pages
+# github_username:  projectpages
+# project_repository: project-pages
+# disqus_shortname: project-pages
 # g-analytics: UA-75881392-1
 altmetric: true
+# weixin_qrcode: /img/qrcode/weixin.jpg
+# zsxq_url: https://t.zsxq.com/7XBPj
 
 # Build settings
 gems: [jekyll-paginate]
