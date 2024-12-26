@@ -4,9 +4,10 @@ title: "创作入门：如何找到你的写作灵感"
 subtitle: "激发创意的实用技巧"
 author: "初火创作"
 date: 2024-12-20
-category: creation-tips
-tags: [写作技巧, 创意方法, 灵感激发]
-header-img: "img/home-bg.jpg"
+category: creation-guide
+tags: 
+    - 故事
+    - 经验分享
 ---
 
 在创作的道路上，找到灵感往往是第一个也是最具挑战性的步骤。本文将分享一些实用的方法，帮助你打开创意之门。

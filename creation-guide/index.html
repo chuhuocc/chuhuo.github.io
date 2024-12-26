@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "创作技巧"
-description: "分享创作过程中的实用技巧和经验"
+title: "创作指南"
+description: "帮助创作者更好地创作"
 header-img: "img/home-bg.jpg"
 ---
 
-{% for post in site.categories.creation-tips %}
+{% for post in site.categories.creation-guide %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">
@@ -18,6 +18,9 @@ header-img: "img/home-bg.jpg"
         {% endif %}
     </a>
     <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+    <div class="notepad-index-post-tags" style="">
+		{% for tag in post.tags %}<a href="{{ site.baseurl }}/search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
+	</div>
 </div>
 <hr>
 {% endfor %}
