@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "学习情书：写出好中文的样子"
-author: "初火创作"
-date: 2024-12-20
+author: "王佩"
+date: 2025-01-24
 category: creation-guide
 tags: 
+    - 写作
     - 创作指南
     - 经验分享
 ---
@@ -31,7 +32,7 @@ tags:
 
 由此，引出我们的问题。**好中文是什么样子？**
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/7CRtm8VxFu3ycEGMaGI1ia4H1WIgibVjx64brtXzDRyTF0bUiaPibnFvDewSKRyLbGzXkicAzHf9Ps7OLv5SRx16CWg/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
 
 ## 情书之美
 
@@ -59,7 +60,7 @@ tags:
 
 > 空阔的天穹和碧落的海光，令人深深地料及了那天涯的意义。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/7CRtm8VxFu3ycEGMaGI1ia4H1WIgibVjx6lh4FiaywS1aNyict1lEUDEM1VgL7LPx0IB7o7iaMOOh3EGJWygxHo0ILQ/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
 
 ## 
 
@@ -81,7 +82,7 @@ tags:
 
 大家注意，这是辛弃疾的词，说得跟白话一模一样，但是是词啊。读什么《六国论》《教战守策》？**直接从诗词入手，多快啊。**
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/7CRtm8VxFu3ycEGMaGI1ia4H1WIgibVjx6HLZEgYGvw2kZF7PCYiclONPaL0APvN8Gm3Oicr3fKmkvicNmkFHVxDG1w/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
 
 **遇见圣典**
 
@@ -103,19 +104,11 @@ tags:
 
 为了一部戏的角色分配，我买过一本四五十元钱的「明清昆曲研究」之类的书，买回家，找到一行字「昆曲草创之初七人成班」，大喜，要的就是这句话。书扔一边，完成使命。所以读书最怕别人问「读完了吗？」什么叫读完？**有的书一辈子反反复复读，也不算读完。有的书翻到需要的几行字，就读完了。■**
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/TBCytf4DrCGEcFQPr03YDDBpU2laIedJeIWKS9ibB5cwtH59ibxrkdeckJrqBh6TXdYflYoYgamxlzRWt9D8fIicA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
-![img](http://mmbiz.qpic.cn/sz_mmbiz_png/7CRtm8VxFu1bViaIicDSGUguGrV5VAxtB6Gf78ialLVRiaEAZmqukoxEtEOWMQQlZkREvnL9kzjDqaiaj8YG3mqwTCQ/300?wx_fmt=png&wxfrom=19)
 
 **初火创作**
 
 初火创作，依托前沿认知科学与人工智能技术，为大众与合作方提供优质作品，包括但不限于图书、播客、视频、课程、桌游与文创等内容形式。
-
-33篇原创内容
-
-
-
-公众号
 
 
 
@@ -135,4 +128,4 @@ tags:
 
 
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/7CRtm8VxFu3ycEGMaGI1ia4H1WIgibVjx6TgXiaiawFDR1vZgNxlUw8qZJS84NruBXRrPs7ic7GZVbkTOiaZN2t7K6yQ/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp)
+报名链接：https://qr29.cn/CiAL2H
