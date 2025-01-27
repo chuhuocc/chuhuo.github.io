@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "想成为非虚构作家？这是一份清晰的职业路径规划（附案例）"
-subtitle: "写故事的技巧"
 author: "Nicolas Cole"
 date: 2025-01-10
 category: creation-guide
